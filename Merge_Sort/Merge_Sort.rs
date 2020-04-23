@@ -99,5 +99,3 @@ fn read_values<T: FromStr>() -> Result<Vec<T>, T::Err> {
     Sorted array: [1, 3, 4, 45, 56, 76]
     
 */
-
-    
